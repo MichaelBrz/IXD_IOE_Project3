@@ -1,10 +1,10 @@
 # Prototype to Performance
 ## Envisioning An Experience For Everyone
- type here
+ type here.
  
 ## From Pixels To A Prototype
 ### Finding A Purpose for our Prototype
- type here
+ type here.
  
 ### Design Taxonomy
   * Crowd Participation
@@ -36,7 +36,7 @@
     
     ## Bodystorming
     
-    Typing Words
+    Typing Words.
     
 ## Prototype 1.0
 
@@ -47,9 +47,12 @@ The visuals below are captured from a real time 3D rendering of our prototype ma
 ![ImageThree](images/TDMovieOut.2.jpg)
 ![ImageFour](images/TDMovieOut.3.jpg)
 
-You can view a video preview of our visualized prototype here : [Prototype One](https://www.youtube.com/watch?v=RlnMgWQJlpA&feature=youtu.be)
+You can view a video preview of our visualized prototype 1.0 here : [Prototype One](https://www.youtube.com/watch?v=RlnMgWQJlpA&feature=youtu.be)
 
+## Options For Our Interactions
 ### Powering A Pixel Perfect Performance 
+
+Typing here.
 
 ### Coming soon
 ## Prototype 1.1
