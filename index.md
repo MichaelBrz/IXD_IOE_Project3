@@ -1,13 +1,13 @@
 # Prototype to Performance
 ## Envisioning An Experience For Everyone
 
-Typing words
+ Typing words
 
 
- ## From Pixels To A Prototype\
+ ## From Pixels To A Prototype
   ### Finding A Purpose for our Prototype
  
- Type words
+  Type words
  
 ### Design Taxonomy
   * Crowd Participation
