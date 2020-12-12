@@ -2,7 +2,8 @@
 ## Envisioning An Experience For Everyone
 
 Typing words
- 
+
+
  ## From Pixels To A Prototype\
   ### Finding A Purpose for our Prototype
  
