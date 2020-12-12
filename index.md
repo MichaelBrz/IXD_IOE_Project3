@@ -3,10 +3,14 @@
  
 ## Design Taxonomy
   * Crowd Participation
-    * Item 1a
+    * Item 1a  
+    
+    
 ## Area of Focus
 * Media Architecture
     * Item 1a
+    
+    
 ## Sensory Environment:
   * Visual Graphic
     * Item 1a
