@@ -15,7 +15,7 @@
     * Computational display systems incorporated into the physical landscape including screens, lights, projection mapping and tracking.
     
 ### Sensory Environment:
-  * Visual Graphic
+  * **Visual Graphic**
     * 2D physical imaging technologies that use pigment or found objewcts, including priting, painting and mixed media.  
   * Visual: Light
     * Eminating or luminating a light source.
@@ -48,6 +48,8 @@ The visuals below are captured from a real time 3D rendering of our prototype ma
 ![ImageFour](images/TDMovieOut.3.jpg)
 
 You can view a video preview of our visualized prototype 1.0 here : [Prototype One](https://www.youtube.com/watch?v=RlnMgWQJlpA&feature=youtu.be)
+
+> The first prototype is a live demonstration of our concept, including the interaction between the Feather Huzzah and TouchDesigner.  By connecting to the Adafruit IO api, it is possible to stream the data directly from the api as JSON format, and parse the information using touchdesigner.  Because of this It is possible to use the live input from the feather huzzah to control aspects of the touchdesigner visual.  In this prototype Michael's button changes the colour of the projection, while William's button effects the complexity and detail of the projected visual.  This 3D visual mockup 
 
 ## Options For Our Interactions
 ### Powering A Pixel Perfect Performance 
