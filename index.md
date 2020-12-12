@@ -1,6 +1,7 @@
 # Prototype to Performance
 ## Envisioning An Experience For Everyone
- This project will build on the skills and methods of physical computing by developing their project 2 prototypes by envisioning the possible interactions of their physical computing and sensors they explored.  Using the Design Matrix, students are encouraged to either continue developing their work on thier project 2 prototypes or pivot in a new direction.  The focus is to envision the possibilities of the prototypes, their function and the interactions with users.  
+This project will build on the skills and methods of physical computing by developing their project 2 prototypes by envisioning the possible interactions of their physical computing and sensors they explored.  Using the Design Matrix, students are encouraged to either continue developing their work on thier project 2 prototypes or pivot in a new direction.  The focus is to envision the possibilities of the prototypes, their function and the interactions with users.  
+
 In this case study Michael Brzuchalski and William Luk revisit the two-way remote communication button they developed for project 2 in order to investigate the possibilities and technical limitations of advancing it further.  Due to the COVID-19 Pandemic, in person developement of physical group ideation and prototyping was not possible.  All ideation, prototyping and bodystorming was substituted or simulated online.   
  
 ## From Pixels To A Prototype
@@ -43,8 +44,7 @@ Bodystorming is a form of ideation like brainstorming, but it is done with the b
     
     
 ## Prototype 1.0
-Due to this limitation the team opted to apply the design thinking into creating a 3D rendered visualization of the installation that displayed the group interactivity.
-The visuals below are captured images from a real time 3D rendering of the prototype made exclusively in TouchDesigner.  
+Due to this limitation the team opted to apply the design thinking into creating a 3D rendered visualization of the installation that displayed the group interactivity.The visuals below are captured images from a real-time 3D rendering of the prototype made exclusively in TouchDesigner.  
 
 ![ImageOne](images/TDMovieOut.0.jpg)
 ![ImageTwo](images/TDMovieOut.1.jpg)
