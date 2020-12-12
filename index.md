@@ -34,8 +34,8 @@ In the previous project Michael And William developed a two way form of communic
   * **Crowd Generated Music/Sound**
     * A collective crowd generated 
     
-    ## Bodystorming
-    Bodystorming is a form of ideation like brainstorming, but it is done with the body.  It has the same goal as brainstorming, figuring out ideas and how those ideas would work in the real world.  Each group member is assigned a role and acts out the idea.  Props are useful but should be simple and quick to make.  It is useful for breaking projects abuilt on bad design principals, before wasting time and money developing a project that will fail.  
+## Bodystorming
+Bodystorming is a form of ideation like brainstorming, but it is done with the body.  It has the same goal as brainstorming, figuring out ideas and how those ideas would work in the real world.  Each group member is assigned a role and acts out the idea.  Props are useful but should be simple and quick to make.  It is useful for breaking projects abuilt on bad design principals, before wasting time and money developing a project that will fail.  
     
 > "Due to the Covid-19 restrictions we are not able to bodystorm our project in person.  However, if it were possible we would have people walk around in hallways with the controllers in hand.  When the specific amount of people are gathered together and all press their buttons we would reach by changing the lights, sounds and images around to mimic how our interaction would work for real"
     
