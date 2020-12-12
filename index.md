@@ -1,16 +1,18 @@
-# Project 3 Case Study 
+# Envisioning An Experience For Everyone
+## Envisioning An Experience For Everyone
  
- Type words here
+ ## From Pixels To A Prototype
+  ### Finding A Purpose for our Prototype
  
-## Design Taxonomy
+### Design Taxonomy
   * Crowd Participation
     * Increased number of users enhances or creates an increased physical, emotional, media/computational response.  
        
-## Area of Focus
+### Area of Focus
   * Media Architecture
     * Computational display systems incorporated into the physical landscape including screens, lights, projection mapping and tracking.
     
-## Sensory Environment:
+### Sensory Environment:
   * Visual Graphic
     * 2D physical imaging technologies that use pigment or found objewcts, including priting, painting and mixed media.  
   * Visual: Light
@@ -22,7 +24,7 @@
   * Sound: Distortion / Generation 
     * Intentionally or randomly affecting the pattern of, or creating an audio wave or series.  
     
-## BodyStorming
+### BodyStorming
   * Interactive Environments
     * The idea is to have multiple controllers as "keys" in a walking exhibit or installation.  Whenever the user presses the button on their microcontroller it changes the environment around them, but not for everyone else.  
   * Projection Mapping
@@ -32,7 +34,7 @@
     
 ## Prototype 1.0
 
-The images below are 3D renders of our prototype made directly in TouchDesigner.  
+The images below are from a real time 3D rendering of our prototype made directly in TouchDesigner.  
 
 ![ImageOne](images/TDMovieOut.0.jpg)
 ![ImageTwo](images/TDMovieOut.1.jpg)
@@ -41,6 +43,9 @@ The images below are 3D renders of our prototype made directly in TouchDesigner.
 
 You can view a video preview of our visualized prototype here : [Prototype One](https://www.youtube.com/watch?v=RlnMgWQJlpA&feature=youtu.be)
 
+### Powering A Pixel Perfect Performance 
+
+### Coming soon
 ## Prototype 1.1
 [Prototype 1.1](https://www.youtube.com/watch?v=__j6FiRErwo&feature=youtu.be)
 
