@@ -34,7 +34,7 @@ In the previous project Michael And William developed a two way form of communic
   * **Projection Mapping**
     * A projection mapped visual onto the ground.  When users walk onto the projection their position is tracked.  Pressing a button controls an aspect of the projection.  Could require multiple people.  
   * **Crowd Generated Music/Sound**
-    * A collective crowd generated 
+    * A collective crowd generated music/sound/Instrument through multiple controllers with visualization using the controllers.  The controllers would have specific beats and tones or would be part of a song that would reveal itself through multiple controllers.  
     
 ## Bodystorming
 Bodystorming is a form of ideation like brainstorming, but it is done with the body.  It has the same goal as brainstorming, figuring out ideas and how those ideas would work in the real world.  Each group member is assigned a role and acts out the idea.  Props are useful but should be simple and quick to make.  It is useful for breaking projects abuilt on bad design principals, before wasting time and money developing a project that will fail.  
