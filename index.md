@@ -1,4 +1,4 @@
-#IXD - IE&O - Project 3 Case Study 
+# IXD - IE&O - Project 3 Case Study 
 
 ### Markdown
 
