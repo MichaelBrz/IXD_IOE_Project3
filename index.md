@@ -1,8 +1,8 @@
 # Prototype to Performance
 ## Envisioning An Experience For Everyone
 
- ## From Pixels To A Prototype
-  ### Finding A Purpose for our Prototype
+## From Pixels To A Prototype
+### Finding A Purpose for our Prototype
 
 ### Design Taxonomy
   * Crowd Participation
