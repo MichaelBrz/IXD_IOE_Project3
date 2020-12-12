@@ -1,5 +1,6 @@
 # IXD - IE&O - Project 3 Case Study 
-
+## IXD - IE&O - Project 3 Case Study 
+### IXD - IE&O - Project 3 Case Study 
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
