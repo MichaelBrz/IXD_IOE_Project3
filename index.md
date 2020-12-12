@@ -4,6 +4,8 @@
 ![ImageTwo](images/TDMovieOut.1.jpg)
 ![ImageThree](images/TDMovieOut.2.jpg)
 ![ImageFour](images/TDMovieOut.3.jpg)
+http://github.com - automatic!
+[GitHub](http://github.com)
 
 *Project by MichaelBrzuchalski*\
 *Theme by Jekyll Themes*
