@@ -50,6 +50,5 @@ You can view a video preview of our visualized prototype here : [Prototype One](
 
 [MQTT](https://mqtt.org/) 
 
-
 *Project by MichaelBrzuchalski*\
 *Theme by Jekyll Themes*
