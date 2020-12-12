@@ -1,9 +1,11 @@
 # Prototype to Performance
 ## Envisioning An Experience For Everyone
-
+ type here
+ 
 ## From Pixels To A Prototype
 ### Finding A Purpose for our Prototype
-
+ type here
+ 
 ### Design Taxonomy
   * Crowd Participation
     * Increased number of users enhances or creates an increased physical, emotional, media/computational response.  
