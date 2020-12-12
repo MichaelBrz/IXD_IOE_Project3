@@ -2,5 +2,5 @@
 
 
 
-*Project by MichaelBrzuchalski*/
+*Project by MichaelBrzuchalski*\
 *Theme by Jekyll Themes*
