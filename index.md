@@ -1,6 +1,7 @@
 # Prototype to Performance
 ## Envisioning An Experience For Everyone
- In this case study, 
+ This project will build on the skills and methods of physical computing by developing their project 2 prototypes by envisioning the possible interactions of their physical computing and sensors they explored.  Using the Design Matrix, students are encouraged to either continue developing their work on thier project 2 prototypes or pivot in a new direction.  The focus is to envision the possibilities of the prototypes, their function and the interactions with users.  
+In this case study Michael Brzuchalski and William Luk revisit the two-way remote communication button they developed for project 2 in order to investigate the possibilities and technical limitations of advancing it further.  Due to the COVID-19 Pandemic, in person developement of physical group ideation and prototyping was not possible.  All ideation, prototyping and bodystorming was substituted or simulated online.   
  
 ## From Pixels To A Prototype
 ### Finding A Purpose For A Prototype
