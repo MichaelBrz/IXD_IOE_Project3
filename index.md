@@ -1,32 +1,34 @@
 # Project 3 Case Study 
-### Project By Michael Brzuchalski
+ 
+ Type words here
  
 ## Design Taxonomy
   * Crowd Participation
-    * Item 1a  
-    
-    
+    * Increased number of users enhances or creates an increased physical, emotional, media/computational response.  
+       
 ## Area of Focus
 * Media Architecture
-    * Item 1a
+    * Computational display systems incorporated into the physical landscape including screens, lights, projection mapping and tracking.
     
 ## Sensory Environment:
   * Visual Graphic
-    * Item 1a
+    * 2D physical imaging technologies that use pigment or found objewcts, including priting, painting and mixed media.  
+  * Visual: Light
+    * Eminating or luminating a light source.
   * Visual: Distortion
-    * Item 1a
-  * Sound: Distortion / Generation
-    * Item 1a
-  * Location: 
-    * Item 1a
+    * Intentionally or randomly affecting the pattern of a series or sequence or light, pixels or images.  
+  * Visual: Projection
+    * Casting or throwing light from a source to a surface.  
+  * Sound: Distortion / Generation 
+    * Intentionally or randomly affecting the pattern of, or creating an audio wave or series.  
     
 ## BodyStorming
- * Project Idea
-    * Item 1a
- * project Idea
-    * Item 1a
- * Project Idea
-    * Item 1a
+ * Interactive Environments
+    * The idea is to have multiple controllers as "keys" in a walking exhibit or installation.  Whenever the user presses the button on their microcontroller it changes the environment around them, but not for everyone else.  
+ * Projection Mapping
+    * A projection mapped visual onto the ground.  When users walk onto the projection their position is tracked.  Pressing a button controls an aspect of the projection.  Could require multiple people.  
+ * Crowd Generated Music/Sound
+    * A collective crowd generated 
     
 ## Prototype 1.0
 
@@ -48,7 +50,4 @@ You can view a video preview of our visualized prototype here : [Prototype One](
 
 [Dweet.io](https://mqtt.org/)
 
-[MQTT](https://mqtt.org/) 
-
-*Project by MichaelBrzuchalski*\
-*Theme by Jekyll Themes*
+[Data To MySQL database with ESP8266](https://theiotprojects.com/insert-data-into-mysql-database-with-esp8266/) 
