@@ -49,23 +49,26 @@ The visuals below are captured from a real time 3D rendering of our prototype ma
 
 You can view a video preview of our visualized prototype 1.0 here : [Prototype One](https://www.youtube.com/watch?v=RlnMgWQJlpA&feature=youtu.be)
 
-> The first prototype is a live demonstration of our concept, including the interaction between the Feather Huzzah and TouchDesigner.  By connecting to the Adafruit IO api, it is possible to stream the data directly from the api into touchdesigner as JSON format, and parse the information directly inside Touchdesigner.  Because of this It is possible for us to use the live input from the feather huzzah to control aspects of the touchdesigner visual.  In this prototype Michael's button changes the colour of the projection, while William's button effects the complexity and detail of the projected visual.  This 3D mockup allowed us to visualize and validate the claims of our process.  
+> The first prototype is a live demonstration of our concept, including the interaction between the Feather Huzzah and TouchDesigner.  By connecting to the Adafruit IO api, it is possible to stream the data directly from the api into touchdesigner as JSON format, and parse the information directly inside Touchdesigner.  Because of this It is possible for us to use the live input from the feather huzzah to control aspects of the touchdesigner visual.  In this prototype Michael's button changes the colour of the projection, while William's button effects the complexity and detail of the projected visual.    
 
 ## Options For Our Interactions
 ### Powering A Pixel Perfect Performance 
 * **TouchDesigner**
-    * The idea is to have multiple
+    * TouchDesigner is the best tool to use as a base platform for our Interaction.  It can easily be integrate with existing systems, such as web API's, DMX512, or databases but also has support for sensors such as the Microsoft Kinect, or streaming serial data from Microcontrollers such as the feather huzzah, or the teensy.  Touchdesigner is not only a great tool for creating immersive interactive environments because of its ability to be integrated with many existing systems and sensors, but it is also a very good prototyping tool for creating proof of concepts.  This allowed us to develope and test a visualization of our concept and validate its effectiveness.  
 * **Feather Huzzah**
-    * The idea is to have multiple
+    * The feather huzzah ESP8266 is the best option we have access to right now.  
+* **Teensy 4.0**
+    * The teensy could possibly be another microcontroller to test in the future.  
 * **[MQTT](https://mqtt.org/)**
     * The idea is to have multiple
 * **[Socket.IO](https://socket.io/)**
     * The idea is to have multiple
 * **[Dweet.io](https://mqtt.org/)**
     * The idea is to have multiple
-* **[Data To mySQL Via ES8266](https://theiotprojects.com/insert-data-into-mysql-database-with-esp8266/) **
+* **[Data To mySQL Via ES8266](https://theiotprojects.com/insert-data-into-mysql-database-with-esp8266/)**
     * The idea is to have multiple
 
-### Coming soon
+
 ## Prototype 1.1
-[Prototype 1.1](https://www.youtube.com/watch?v=__j6FiRErwo&feature=youtu.be)
+### Coming soon!
+Enjoy this preview for now.  [Prototype 1.1](https://www.youtube.com/watch?v=__j6FiRErwo&feature=youtu.be)
