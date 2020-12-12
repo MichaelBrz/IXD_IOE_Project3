@@ -1,4 +1,4 @@
-# Prototype.  Pr
+# Prototype to Performance
 ## Envisioning An Experience For Everyone
 
 Typing words
@@ -36,9 +36,13 @@ Typing words
   * Crowd Generated Music/Sound
     * A collective crowd generated 
     
+    ## Bodystorming
+    
+    Typing Words
+    
 ## Prototype 1.0
 
-The images below are from a real time 3D rendering of our prototype made directly in TouchDesigner.  
+The visuals below are captured from a real time 3D rendering of our prototype made exclusively in TouchDesigner.  
 
 ![ImageOne](images/TDMovieOut.0.jpg)
 ![ImageTwo](images/TDMovieOut.1.jpg)
