@@ -3,7 +3,7 @@
 
 Typing words
  
- ## From Pixels To A Prototype
+ ## From Pixels To A Prototype\
   ### Finding A Purpose for our Prototype
  
  Type words
