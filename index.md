@@ -76,5 +76,9 @@ After showing the 3D rendered pitch for critique, additional feedback was provid
 
 
 ## Prototype 1.1
-### Coming soon!
-Enjoy this preview for now.  [Prototype 1.1](https://www.youtube.com/watch?v=__j6FiRErwo&feature=youtu.be)
+### Critiquing Our Creation 
+
+After The team was given critique, they decided to expand on their options for rich user interactions within their installation.  A button press is well and good but what about natural interaction between participants?  Proximity, position, verbal interactions were all considered.  The team implimented audio reaction to the visual installation in the form of ambient sound sensing via microphones.  Different options for tracking user position and proximity to one another included bluetooth, radio communication, sonic communications.  The idea of proximity and ambient noise sensing created an autonomous interaction that encouraged users to participate with one another.  
+
+Due to the COVID-19 pandemic, the team was unable to provide a live demonstration.  However, the project revealed that TouchDesigner is not only an impressive tool for creating Interactive Experiences, but can be used to create a visual prototype in 3D in real time, allowing for critique feedback to be implimented rapidly to test ideas on the fly.  The visual prototype created a tangeble idea when bodystorming was not possible, and the project being completely holistic.  
+You can view a video preview of the visualized prototype 1.1 here : [Prototype 1.1](https://www.youtube.com/watch?v=__j6FiRErwo&feature=youtu.be)
